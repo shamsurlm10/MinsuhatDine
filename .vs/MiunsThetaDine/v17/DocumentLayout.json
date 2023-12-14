@@ -1,0 +1,213 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\Shamsur\\AmberITLearning\\MiunsThetaDine\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EDC7CEBF-46FB-4080-89A1-FBD2104EE6FA}|MinusThetaDine.API\\MinusThetaDine.API.csproj|f:\\shamsur\\amberitlearning\\miunsthetadine\\minusthetadine.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EDC7CEBF-46FB-4080-89A1-FBD2104EE6FA}|MinusThetaDine.API\\MinusThetaDine.API.csproj|solutionrelative:minusthetadine.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E989A916-D2FB-491A-ACA9-2019F0C12E62}|MinusTheta.Infrastructure\\MinusTheta.Infrastructure.csproj|f:\\shamsur\\amberitlearning\\miunsthetadine\\minustheta.infrastructure\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E989A916-D2FB-491A-ACA9-2019F0C12E62}|MinusTheta.Infrastructure\\MinusTheta.Infrastructure.csproj|solutionrelative:minustheta.infrastructure\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6649D4CE-C79D-425C-8DD4-4CC65D519592}|MinusTheta.Application\\MinusTheta.Application.csproj|f:\\shamsur\\amberitlearning\\miunsthetadine\\minustheta.application\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6649D4CE-C79D-425C-8DD4-4CC65D519592}|MinusTheta.Application\\MinusTheta.Application.csproj|solutionrelative:minustheta.application\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E989A916-D2FB-491A-ACA9-2019F0C12E62}|MinusTheta.Infrastructure\\MinusTheta.Infrastructure.csproj|f:\\shamsur\\amberitlearning\\miunsthetadine\\minustheta.infrastructure\\minustheta.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{E989A916-D2FB-491A-ACA9-2019F0C12E62}|MinusTheta.Infrastructure\\MinusTheta.Infrastructure.csproj|solutionrelative:minustheta.infrastructure\\minustheta.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDC7CEBF-46FB-4080-89A1-FBD2104EE6FA}|MinusThetaDine.API\\MinusThetaDine.API.csproj|f:\\shamsur\\amberitlearning\\miunsthetadine\\minusthetadine.api\\controllers\\authenticationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EDC7CEBF-46FB-4080-89A1-FBD2104EE6FA}|MinusThetaDine.API\\MinusThetaDine.API.csproj|solutionrelative:minusthetadine.api\\controllers\\authenticationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6649D4CE-C79D-425C-8DD4-4CC65D519592}|MinusTheta.Application\\MinusTheta.Application.csproj|f:\\shamsur\\amberitlearning\\miunsthetadine\\minustheta.application\\services\\authentication\\iauthenticationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6649D4CE-C79D-425C-8DD4-4CC65D519592}|MinusTheta.Application\\MinusTheta.Application.csproj|solutionrelative:minustheta.application\\services\\authentication\\iauthenticationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{499C7D77-A627-47E6-9D85-058115801AD5}|MinusTheta.Contracts\\MinusTheta.Contracts.csproj|f:\\shamsur\\amberitlearning\\miunsthetadine\\minustheta.contracts\\authentication\\loginrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{499C7D77-A627-47E6-9D85-058115801AD5}|MinusTheta.Contracts\\MinusTheta.Contracts.csproj|solutionrelative:minustheta.contracts\\authentication\\loginrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{499C7D77-A627-47E6-9D85-058115801AD5}|MinusTheta.Contracts\\MinusTheta.Contracts.csproj|f:\\shamsur\\amberitlearning\\miunsthetadine\\minustheta.contracts\\authentication\\authenticationresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{499C7D77-A627-47E6-9D85-058115801AD5}|MinusTheta.Contracts\\MinusTheta.Contracts.csproj|solutionrelative:minustheta.contracts\\authentication\\authenticationresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6649D4CE-C79D-425C-8DD4-4CC65D519592}|MinusTheta.Application\\MinusTheta.Application.csproj|f:\\shamsur\\amberitlearning\\miunsthetadine\\minustheta.application\\services\\authentication\\authenticationresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6649D4CE-C79D-425C-8DD4-4CC65D519592}|MinusTheta.Application\\MinusTheta.Application.csproj|solutionrelative:minustheta.application\\services\\authentication\\authenticationresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{499C7D77-A627-47E6-9D85-058115801AD5}|MinusTheta.Contracts\\MinusTheta.Contracts.csproj|f:\\shamsur\\amberitlearning\\miunsthetadine\\minustheta.contracts\\authentication\\registerrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{499C7D77-A627-47E6-9D85-058115801AD5}|MinusTheta.Contracts\\MinusTheta.Contracts.csproj|solutionrelative:minustheta.contracts\\authentication\\registerrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6649D4CE-C79D-425C-8DD4-4CC65D519592}|MinusTheta.Application\\MinusTheta.Application.csproj|f:\\shamsur\\amberitlearning\\miunsthetadine\\minustheta.application\\services\\authentication\\authenticationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6649D4CE-C79D-425C-8DD4-4CC65D519592}|MinusTheta.Application\\MinusTheta.Application.csproj|solutionrelative:minustheta.application\\services\\authentication\\authenticationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6649D4CE-C79D-425C-8DD4-4CC65D519592}|MinusTheta.Application\\MinusTheta.Application.csproj|f:\\shamsur\\amberitlearning\\miunsthetadine\\minustheta.application\\minustheta.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{6649D4CE-C79D-425C-8DD4-4CC65D519592}|MinusTheta.Application\\MinusTheta.Application.csproj|solutionrelative:minustheta.application\\minustheta.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DependencyInjection.cs",
+              "DocumentMoniker": "F:\\Shamsur\\AmberITLearning\\MiunsThetaDine\\MinusTheta.Infrastructure\\DependencyInjection.cs",
+              "RelativeDocumentMoniker": "MinusTheta.Infrastructure\\DependencyInjection.cs",
+              "ToolTip": "F:\\Shamsur\\AmberITLearning\\MiunsThetaDine\\MinusTheta.Infrastructure\\DependencyInjection.cs",
+              "RelativeToolTip": "MinusTheta.Infrastructure\\DependencyInjection.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-12-14T11:43:18.866Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DependencyInjection.cs",
+              "DocumentMoniker": "F:\\Shamsur\\AmberITLearning\\MiunsThetaDine\\MinusTheta.Application\\DependencyInjection.cs",
+              "RelativeDocumentMoniker": "MinusTheta.Application\\DependencyInjection.cs",
+              "ToolTip": "F:\\Shamsur\\AmberITLearning\\MiunsThetaDine\\MinusTheta.Application\\DependencyInjection.cs",
+              "RelativeToolTip": "MinusTheta.Application\\DependencyInjection.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-12-14T11:35:40.704Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "F:\\Shamsur\\AmberITLearning\\MiunsThetaDine\\MinusThetaDine.API\\Program.cs",
+              "RelativeDocumentMoniker": "MinusThetaDine.API\\Program.cs",
+              "ToolTip": "F:\\Shamsur\\AmberITLearning\\MiunsThetaDine\\MinusThetaDine.API\\Program.cs",
+              "RelativeToolTip": "MinusThetaDine.API\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-12-14T10:51:46.331Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MinusTheta.Infrastructure.csproj",
+              "DocumentMoniker": "F:\\Shamsur\\AmberITLearning\\MiunsThetaDine\\MinusTheta.Infrastructure\\MinusTheta.Infrastructure.csproj",
+              "RelativeDocumentMoniker": "MinusTheta.Infrastructure\\MinusTheta.Infrastructure.csproj",
+              "ToolTip": "F:\\Shamsur\\AmberITLearning\\MiunsThetaDine\\MinusTheta.Infrastructure\\MinusTheta.Infrastructure.csproj",
+              "RelativeToolTip": "MinusTheta.Infrastructure\\MinusTheta.Infrastructure.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2023-12-14T11:43:17.369Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "RegisterRequest.cs",
+              "DocumentMoniker": "F:\\Shamsur\\AmberITLearning\\MiunsThetaDine\\MinusTheta.Contracts\\Authentication\\RegisterRequest.cs",
+              "RelativeDocumentMoniker": "MinusTheta.Contracts\\Authentication\\RegisterRequest.cs",
+              "ToolTip": "F:\\Shamsur\\AmberITLearning\\MiunsThetaDine\\MinusTheta.Contracts\\Authentication\\RegisterRequest.cs",
+              "RelativeToolTip": "MinusTheta.Contracts\\Authentication\\RegisterRequest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-12-14T09:58:05.092Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AuthenticationController.cs",
+              "DocumentMoniker": "F:\\Shamsur\\AmberITLearning\\MiunsThetaDine\\MinusThetaDine.API\\Controllers\\AuthenticationController.cs",
+              "RelativeDocumentMoniker": "MinusThetaDine.API\\Controllers\\AuthenticationController.cs",
+              "ToolTip": "F:\\Shamsur\\AmberITLearning\\MiunsThetaDine\\MinusThetaDine.API\\Controllers\\AuthenticationController.cs",
+              "RelativeToolTip": "MinusThetaDine.API\\Controllers\\AuthenticationController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-12-14T10:06:06.766Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "LoginRequest.cs",
+              "DocumentMoniker": "F:\\Shamsur\\AmberITLearning\\MiunsThetaDine\\MinusTheta.Contracts\\Authentication\\LoginRequest.cs",
+              "RelativeDocumentMoniker": "MinusTheta.Contracts\\Authentication\\LoginRequest.cs",
+              "ToolTip": "F:\\Shamsur\\AmberITLearning\\MiunsThetaDine\\MinusTheta.Contracts\\Authentication\\LoginRequest.cs",
+              "RelativeToolTip": "MinusTheta.Contracts\\Authentication\\LoginRequest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-12-14T09:57:41.316Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IAuthenticationService.cs",
+              "DocumentMoniker": "F:\\Shamsur\\AmberITLearning\\MiunsThetaDine\\MinusTheta.Application\\Services\\Authentication\\IAuthenticationService.cs",
+              "RelativeDocumentMoniker": "MinusTheta.Application\\Services\\Authentication\\IAuthenticationService.cs",
+              "ToolTip": "F:\\Shamsur\\AmberITLearning\\MiunsThetaDine\\MinusTheta.Application\\Services\\Authentication\\IAuthenticationService.cs",
+              "RelativeToolTip": "MinusTheta.Application\\Services\\Authentication\\IAuthenticationService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-12-14T10:16:02.208Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AuthenticationResponse.cs",
+              "DocumentMoniker": "F:\\Shamsur\\AmberITLearning\\MiunsThetaDine\\MinusTheta.Contracts\\Authentication\\AuthenticationResponse.cs",
+              "RelativeDocumentMoniker": "MinusTheta.Contracts\\Authentication\\AuthenticationResponse.cs",
+              "ToolTip": "F:\\Shamsur\\AmberITLearning\\MiunsThetaDine\\MinusTheta.Contracts\\Authentication\\AuthenticationResponse.cs",
+              "RelativeToolTip": "MinusTheta.Contracts\\Authentication\\AuthenticationResponse.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-12-14T09:58:35.874Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AuthenticationResponse.cs",
+              "DocumentMoniker": "F:\\Shamsur\\AmberITLearning\\MiunsThetaDine\\MinusTheta.Application\\Services\\Authentication\\AuthenticationResponse.cs",
+              "RelativeDocumentMoniker": "MinusTheta.Application\\Services\\Authentication\\AuthenticationResponse.cs",
+              "ToolTip": "F:\\Shamsur\\AmberITLearning\\MiunsThetaDine\\MinusTheta.Application\\Services\\Authentication\\AuthenticationResponse.cs",
+              "RelativeToolTip": "MinusTheta.Application\\Services\\Authentication\\AuthenticationResponse.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-12-14T10:22:01.355Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "AuthenticationService.cs",
+              "DocumentMoniker": "F:\\Shamsur\\AmberITLearning\\MiunsThetaDine\\MinusTheta.Application\\Services\\Authentication\\AuthenticationService.cs",
+              "RelativeDocumentMoniker": "MinusTheta.Application\\Services\\Authentication\\AuthenticationService.cs",
+              "ToolTip": "F:\\Shamsur\\AmberITLearning\\MiunsThetaDine\\MinusTheta.Application\\Services\\Authentication\\AuthenticationService.cs",
+              "RelativeToolTip": "MinusTheta.Application\\Services\\Authentication\\AuthenticationService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-12-14T10:17:02.556Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "MinusTheta.Application.csproj",
+              "DocumentMoniker": "F:\\Shamsur\\AmberITLearning\\MiunsThetaDine\\MinusTheta.Application\\MinusTheta.Application.csproj",
+              "RelativeDocumentMoniker": "MinusTheta.Application\\MinusTheta.Application.csproj",
+              "ToolTip": "F:\\Shamsur\\AmberITLearning\\MiunsThetaDine\\MinusTheta.Application\\MinusTheta.Application.csproj",
+              "RelativeToolTip": "MinusTheta.Application\\MinusTheta.Application.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2023-12-14T10:14:38.272Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

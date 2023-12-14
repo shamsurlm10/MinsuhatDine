@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "XUumJDbd/LH9waE5Oz7bp784As7CkUEETADO/hux2ir0zFxEtLmMuU6FhmHaYaaN9zY9nly7O1cg/yX05rhvKg==",
+  "success": true,
+  "projectFilePath": "F:\\Shamsur\\AmberITLearning\\MiunsThetaDine\\MinusTheta.Infrastructure\\MinusTheta.Infrastructure.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Shamsurlm10\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.0\\microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

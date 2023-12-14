@@ -1,0 +1,11 @@
+F:\Shamsur\AmberITLearning\MiunsThetaDine\MinusTheta.Domain\bin\Debug\net8.0\MinusTheta.Domain.deps.json
+F:\Shamsur\AmberITLearning\MiunsThetaDine\MinusTheta.Domain\bin\Debug\net8.0\MinusTheta.Domain.dll
+F:\Shamsur\AmberITLearning\MiunsThetaDine\MinusTheta.Domain\bin\Debug\net8.0\MinusTheta.Domain.pdb
+F:\Shamsur\AmberITLearning\MiunsThetaDine\MinusTheta.Domain\obj\Debug\net8.0\MinusTheta.Domain.GeneratedMSBuildEditorConfig.editorconfig
+F:\Shamsur\AmberITLearning\MiunsThetaDine\MinusTheta.Domain\obj\Debug\net8.0\MinusTheta.Domain.AssemblyInfoInputs.cache
+F:\Shamsur\AmberITLearning\MiunsThetaDine\MinusTheta.Domain\obj\Debug\net8.0\MinusTheta.Domain.AssemblyInfo.cs
+F:\Shamsur\AmberITLearning\MiunsThetaDine\MinusTheta.Domain\obj\Debug\net8.0\MinusTheta.Domain.csproj.CoreCompileInputs.cache
+F:\Shamsur\AmberITLearning\MiunsThetaDine\MinusTheta.Domain\obj\Debug\net8.0\MinusTheta.Domain.dll
+F:\Shamsur\AmberITLearning\MiunsThetaDine\MinusTheta.Domain\obj\Debug\net8.0\refint\MinusTheta.Domain.dll
+F:\Shamsur\AmberITLearning\MiunsThetaDine\MinusTheta.Domain\obj\Debug\net8.0\MinusTheta.Domain.pdb
+F:\Shamsur\AmberITLearning\MiunsThetaDine\MinusTheta.Domain\obj\Debug\net8.0\ref\MinusTheta.Domain.dll
