@@ -623,11 +623,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "F:\\Shamsur\\AmberITLearning\\MinusThetaDines\\MinusTheta.Infrastructure\\MinusTheta.Infrastructure.csproj",
+      "projectUniqueName": "F:\\Shamsur\\AmberITLearning\\MTDine\\MinusThetaDine\\MinusTheta.Infrastructure\\MinusTheta.Infrastructure.csproj",
       "projectName": "MinusTheta.Infrastructure",
-      "projectPath": "F:\\Shamsur\\AmberITLearning\\MinusThetaDines\\MinusTheta.Infrastructure\\MinusTheta.Infrastructure.csproj",
+      "projectPath": "F:\\Shamsur\\AmberITLearning\\MTDine\\MinusThetaDine\\MinusTheta.Infrastructure\\MinusTheta.Infrastructure.csproj",
       "packagesPath": "C:\\Users\\Shamsurlm10\\.nuget\\packages\\",
-      "outputPath": "F:\\Shamsur\\AmberITLearning\\MinusThetaDines\\MinusTheta.Infrastructure\\obj\\",
+      "outputPath": "F:\\Shamsur\\AmberITLearning\\MTDine\\MinusThetaDine\\MinusTheta.Infrastructure\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "E:\\VisualStudioIDE\\Sahred\\NuGetPackages",
@@ -651,8 +651,8 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "F:\\Shamsur\\AmberITLearning\\MinusThetaDines\\MinusTheta.Application\\MinusTheta.Application.csproj": {
-              "projectPath": "F:\\Shamsur\\AmberITLearning\\MinusThetaDines\\MinusTheta.Application\\MinusTheta.Application.csproj"
+            "F:\\Shamsur\\AmberITLearning\\MTDine\\MinusThetaDine\\MinusTheta.Application\\MinusTheta.Application.csproj": {
+              "projectPath": "F:\\Shamsur\\AmberITLearning\\MTDine\\MinusThetaDine\\MinusTheta.Application\\MinusTheta.Application.csproj"
             }
           }
         }
