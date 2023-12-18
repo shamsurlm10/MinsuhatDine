@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Zbd6iL0yFobk8ZtILzKw4R/FAuyNxdCctAe8w4MygPLi41JRBM2qJozcMHPM8Oo3UwyQXl10KnBSyvguMxwatw==",
+  "dgSpecHash": "l1V8d9ffMc4KRYHOQXl1uM5T1D0964HXMkSSQJDIO/53JVoV/XbnNvJqxJVaTvnF/g6MP5EuLLfwbkwsnBVnaA==",
   "success": true,
-  "projectFilePath": "F:\\Shamsur\\AmberITLearning\\MiunsThetaDine\\MinusThetaDine.API\\MinusThetaDine.API.csproj",
+  "projectFilePath": "F:\\Shamsur\\AmberITLearning\\MinusThetaDines\\MinusThetaDine.API\\MinusThetaDine.API.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Shamsurlm10\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
     "C:\\Users\\Shamsurlm10\\.nuget\\packages\\microsoft.extensions.configuration\\8.0.0\\microsoft.extensions.configuration.8.0.0.nupkg.sha512",

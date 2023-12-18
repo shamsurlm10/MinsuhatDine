@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "z5jJOCONViZapNEMLTbHKjDURW1EvL2rAERioVngkGW0zIR+IwkotHjyd1I+NSxEpNw0t9rUBH6joigiryi/Dg==",
+  "dgSpecHash": "DfQDo1FpVbC27ww0wW0VjWvwTArNsZM1G9G0/IhwCAidQJQT2lTda5SutJplN/00Tr+lHWEZJpZrPuQIZUojWg==",
   "success": true,
-  "projectFilePath": "F:\\Shamsur\\AmberITLearning\\MiunsThetaDine\\MinusTheta.Infrastructure\\MinusTheta.Infrastructure.csproj",
+  "projectFilePath": "F:\\Shamsur\\AmberITLearning\\MinusThetaDines\\MinusTheta.Infrastructure\\MinusTheta.Infrastructure.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Shamsurlm10\\.nuget\\packages\\microsoft.extensions.configuration\\8.0.0\\microsoft.extensions.configuration.8.0.0.nupkg.sha512",
     "C:\\Users\\Shamsurlm10\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\8.0.0\\microsoft.extensions.configuration.abstractions.8.0.0.nupkg.sha512",

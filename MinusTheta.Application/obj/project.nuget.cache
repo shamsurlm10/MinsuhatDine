@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Nc0crcH3SKw2q9abYVCnvUiiEAfXWPgzyghYLLTsAu2+Aohn1WMg+1LpufG6Q8zXHEqNRbEZdLJotAt4drZ7rA==",
+  "dgSpecHash": "vEQdO2qAQ11PTtfX8rF2mJCIZYim2ajEBRBNRAjbSiboBKpwNAzGzdtOS1Z4RlCLd2TTaQFSVSTDCXWU788AKg==",
   "success": true,
-  "projectFilePath": "F:\\Shamsur\\AmberITLearning\\MiunsThetaDine\\MinusTheta.Application\\MinusTheta.Application.csproj",
+  "projectFilePath": "F:\\Shamsur\\AmberITLearning\\MinusThetaDines\\MinusTheta.Application\\MinusTheta.Application.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Shamsurlm10\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.0\\microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512"
   ],
