@@ -9,3 +9,4 @@ F:\Shamsur\AmberITLearning\MiunsThetaDine\MinusTheta.Contracts\obj\Debug\net8.0\
 F:\Shamsur\AmberITLearning\MiunsThetaDine\MinusTheta.Contracts\obj\Debug\net8.0\refint\MinusTheta.Contracts.dll
 F:\Shamsur\AmberITLearning\MiunsThetaDine\MinusTheta.Contracts\obj\Debug\net8.0\MinusTheta.Contracts.pdb
 F:\Shamsur\AmberITLearning\MiunsThetaDine\MinusTheta.Contracts\obj\Debug\net8.0\ref\MinusTheta.Contracts.dll
+F:\Shamsur\AmberITLearning\MiunsThetaDine\MinusTheta.Contracts\obj\Debug\net8.0\MinusTheta.Contracts.sourcelink.json

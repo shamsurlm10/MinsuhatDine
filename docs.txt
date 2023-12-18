@@ -1,0 +1,5 @@
+1. dotnet user-secrets init --project .\MinusThetaDine.API
+
+2. dotnet user-secrets set --project .\MinusThetaDine.API "JwtSettings:Secrete" "super-secrete-key-with-at-least-32-characters"
+
+3. dotnet user-secrets list --project .\MinusThetaDine.API
