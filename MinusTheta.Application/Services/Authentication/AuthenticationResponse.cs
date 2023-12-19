@@ -1,9 +1,8 @@
-﻿namespace MinusTheta.Application.Authentication;
+﻿using MinusTheta.Domain.Entities;
+
+namespace MinusTheta.Application.Authentication;
 
 public record AuthenticationResult(
-    Guid Id,
-       string FirstName,
-          string LastName,
-             string Email,
+                User? User,
                 string Token
     );

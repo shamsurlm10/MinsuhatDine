@@ -2,7 +2,9 @@
 using Microsoft.Extensions.DependencyInjection;
 using MinusTheta.Application.Common.Interfaces.Authentication;
 using MinusTheta.Application.Common.Interfaces.Services;
+using MinusTheta.Application.Persistence;
 using MinusTheta.Infrastructure.Authentication;
+using MinusTheta.Infrastructure.Persistence;
 using MinusTheta.Infrastructure.Services;
 
 namespace MinusTheta.Infrastructure
@@ -11,9 +13,10 @@ namespace MinusTheta.Infrastructure
     {
         public static IServiceCollection AddInfrastructure(this IServiceCollection services, ConfigurationManager configuration)
         {
+            services.Configure<JwtToken>(configuration.GetSection("JwtSettings"));
             services.AddScoped<IJwtTokenGenerator, JwtTokenGenerator>();
             services.AddSingleton<IDateTimeProvider, DateTimeProvider>();
-            services.Configure<JwtToken>(configuration.GetSection("JwtSettings"));
+            services.AddScoped<IUserRepository, UserReposiory>();
             return services;
         }
     }

@@ -22,3 +22,15 @@ F:\Shamsur\AmberITLearning\MinusThetaDines\MinusTheta.Contracts\obj\Debug\net8.0
 F:\Shamsur\AmberITLearning\MinusThetaDines\MinusTheta.Contracts\obj\Debug\net8.0\refint\MinusTheta.Contracts.dll
 F:\Shamsur\AmberITLearning\MinusThetaDines\MinusTheta.Contracts\obj\Debug\net8.0\MinusTheta.Contracts.pdb
 F:\Shamsur\AmberITLearning\MinusThetaDines\MinusTheta.Contracts\obj\Debug\net8.0\ref\MinusTheta.Contracts.dll
+F:\Shamsur\AmberITLearning\MTDine\MinusThetaDine\MinusTheta.Contracts\bin\Debug\net8.0\MinusTheta.Contracts.deps.json
+F:\Shamsur\AmberITLearning\MTDine\MinusThetaDine\MinusTheta.Contracts\bin\Debug\net8.0\MinusTheta.Contracts.dll
+F:\Shamsur\AmberITLearning\MTDine\MinusThetaDine\MinusTheta.Contracts\bin\Debug\net8.0\MinusTheta.Contracts.pdb
+F:\Shamsur\AmberITLearning\MTDine\MinusThetaDine\MinusTheta.Contracts\obj\Debug\net8.0\MinusTheta.Contracts.GeneratedMSBuildEditorConfig.editorconfig
+F:\Shamsur\AmberITLearning\MTDine\MinusThetaDine\MinusTheta.Contracts\obj\Debug\net8.0\MinusTheta.Contracts.AssemblyInfoInputs.cache
+F:\Shamsur\AmberITLearning\MTDine\MinusThetaDine\MinusTheta.Contracts\obj\Debug\net8.0\MinusTheta.Contracts.AssemblyInfo.cs
+F:\Shamsur\AmberITLearning\MTDine\MinusThetaDine\MinusTheta.Contracts\obj\Debug\net8.0\MinusTheta.Contracts.csproj.CoreCompileInputs.cache
+F:\Shamsur\AmberITLearning\MTDine\MinusThetaDine\MinusTheta.Contracts\obj\Debug\net8.0\MinusTheta.Contracts.sourcelink.json
+F:\Shamsur\AmberITLearning\MTDine\MinusThetaDine\MinusTheta.Contracts\obj\Debug\net8.0\MinusTheta.Contracts.dll
+F:\Shamsur\AmberITLearning\MTDine\MinusThetaDine\MinusTheta.Contracts\obj\Debug\net8.0\refint\MinusTheta.Contracts.dll
+F:\Shamsur\AmberITLearning\MTDine\MinusThetaDine\MinusTheta.Contracts\obj\Debug\net8.0\MinusTheta.Contracts.pdb
+F:\Shamsur\AmberITLearning\MTDine\MinusThetaDine\MinusTheta.Contracts\obj\Debug\net8.0\ref\MinusTheta.Contracts.dll

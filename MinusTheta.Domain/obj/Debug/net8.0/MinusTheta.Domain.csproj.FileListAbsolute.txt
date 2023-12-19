@@ -21,3 +21,15 @@ F:\Shamsur\AmberITLearning\MinusThetaDines\MinusTheta.Domain\obj\Debug\net8.0\Mi
 F:\Shamsur\AmberITLearning\MinusThetaDines\MinusTheta.Domain\obj\Debug\net8.0\refint\MinusTheta.Domain.dll
 F:\Shamsur\AmberITLearning\MinusThetaDines\MinusTheta.Domain\obj\Debug\net8.0\MinusTheta.Domain.pdb
 F:\Shamsur\AmberITLearning\MinusThetaDines\MinusTheta.Domain\obj\Debug\net8.0\ref\MinusTheta.Domain.dll
+F:\Shamsur\AmberITLearning\MTDine\MinusThetaDine\MinusTheta.Domain\bin\Debug\net8.0\MinusTheta.Domain.deps.json
+F:\Shamsur\AmberITLearning\MTDine\MinusThetaDine\MinusTheta.Domain\bin\Debug\net8.0\MinusTheta.Domain.dll
+F:\Shamsur\AmberITLearning\MTDine\MinusThetaDine\MinusTheta.Domain\bin\Debug\net8.0\MinusTheta.Domain.pdb
+F:\Shamsur\AmberITLearning\MTDine\MinusThetaDine\MinusTheta.Domain\obj\Debug\net8.0\MinusTheta.Domain.GeneratedMSBuildEditorConfig.editorconfig
+F:\Shamsur\AmberITLearning\MTDine\MinusThetaDine\MinusTheta.Domain\obj\Debug\net8.0\MinusTheta.Domain.AssemblyInfoInputs.cache
+F:\Shamsur\AmberITLearning\MTDine\MinusThetaDine\MinusTheta.Domain\obj\Debug\net8.0\MinusTheta.Domain.AssemblyInfo.cs
+F:\Shamsur\AmberITLearning\MTDine\MinusThetaDine\MinusTheta.Domain\obj\Debug\net8.0\MinusTheta.Domain.csproj.CoreCompileInputs.cache
+F:\Shamsur\AmberITLearning\MTDine\MinusThetaDine\MinusTheta.Domain\obj\Debug\net8.0\MinusTheta.Domain.sourcelink.json
+F:\Shamsur\AmberITLearning\MTDine\MinusThetaDine\MinusTheta.Domain\obj\Debug\net8.0\MinusTheta.Domain.dll
+F:\Shamsur\AmberITLearning\MTDine\MinusThetaDine\MinusTheta.Domain\obj\Debug\net8.0\refint\MinusTheta.Domain.dll
+F:\Shamsur\AmberITLearning\MTDine\MinusThetaDine\MinusTheta.Domain\obj\Debug\net8.0\MinusTheta.Domain.pdb
+F:\Shamsur\AmberITLearning\MTDine\MinusThetaDine\MinusTheta.Domain\obj\Debug\net8.0\ref\MinusTheta.Domain.dll

@@ -2,6 +2,7 @@
 using Microsoft.IdentityModel.Tokens;
 using MinusTheta.Application.Common.Interfaces.Authentication;
 using MinusTheta.Application.Common.Interfaces.Services;
+using MinusTheta.Domain.Entities;
 using System.IdentityModel.Tokens.Jwt;
 using System.Security.Claims;
 using System.Text;
@@ -19,7 +20,7 @@ namespace MinusTheta.Infrastructure.Authentication
             _options = options.Value;
         }
 
-        public string GenerateToken(Guid userId, string firstname, string lastname)
+        public string GenerateToken(User user)
         {
             var signingCredential = new SigningCredentials(
                 new SymmetricSecurityKey(Encoding.UTF8.GetBytes(_options.Secrete)),
@@ -27,9 +28,9 @@ namespace MinusTheta.Infrastructure.Authentication
 
             var claims = new[]
              {
-                new Claim(JwtRegisteredClaimNames.Sub, userId.ToString()),
-                new Claim(JwtRegisteredClaimNames.GivenName, firstname),
-                new Claim(JwtRegisteredClaimNames.FamilyName, lastname),
+                new Claim(JwtRegisteredClaimNames.Sub, user.Id.ToString()),
+                new Claim(JwtRegisteredClaimNames.GivenName, user.FirstName),
+                new Claim(JwtRegisteredClaimNames.FamilyName, user.LastName),
                 new Claim(JwtRegisteredClaimNames.Jti, Guid.NewGuid().ToString())
              };
             var securityToken = new JwtSecurityToken(
